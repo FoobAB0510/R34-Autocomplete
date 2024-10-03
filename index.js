@@ -12,7 +12,7 @@ function sleep(ms) {
 }
 
 (async () => {
-    browser = await puppeteer.launch({ headless: false });
+    browser = await puppeteer.launch({ headless: true });
 })();
 
 app.get('/hent', async (req, res) => {
