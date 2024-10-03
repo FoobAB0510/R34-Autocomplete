@@ -11,7 +11,7 @@
   "author": "",
   "license": "ISC",
   "engines": {
-    "node": "^14"
+    "node": "^20"
   },
   "dependencies": {
     "chrome-aws-lambda": "^6",
