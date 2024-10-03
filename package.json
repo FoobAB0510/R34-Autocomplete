@@ -1,10 +1,11 @@
 {
-  "name": "puppeteer-vercel",
+  "name": "r34-autocomplete",
   "version": "1.0.0",
-  "description": "",
+  "description": "Get autocomplete any tags from R34",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "install": "npm i"
   },
   "keywords": [],
   "author": "",
